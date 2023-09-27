@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Indian Recipes</string>
+    <string name="title">Hello</string>
+    <string name="title2">foodie!</string>
+    <string name="qoute">which indian food would\nyou like to cook?</string>
+
 </resources>
